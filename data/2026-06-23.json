@@ -1,0 +1,148 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T09:46:27.350637Z",
+  "jobs": [
+    {
+      "id": "c90257889c08",
+      "title": "Engineering Manager - Experimentation",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/64ef2493-3b1e-407a-ac07-9e95a57f6d7c",
+      "posted": "2025-10-24",
+      "job_type": "Permanent",
+      "match_score": 30,
+      "match_reasons": [
+        "rag",
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "ff9efb44bc05",
+      "title": "Senior Security Engineer - Enterprise Security",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/fa4125a9-b99a-4c96-94ff-427d3da127d3",
+      "posted": "2026-03-23",
+      "job_type": "Permanent",
+      "match_score": 24,
+      "match_reasons": [
+        "ai",
+        "network",
+        "api"
+      ],
+      "team": "Security",
+      "is_new": false
+    },
+    {
+      "id": "3c06e52129eb",
+      "title": "Senior Editor, Music Editorial - Nordics",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/4bd695c7-5b23-47b1-92e1-2a5f0b0dcca3",
+      "posted": "2026-04-01",
+      "job_type": "Permanent",
+      "match_score": 22,
+      "match_reasons": [
+        "rag",
+        "api"
+      ],
+      "team": "Studios / Podcasts",
+      "is_new": false
+    },
+    {
+      "id": "25df260a2b63",
+      "title": "Analytics Engineer II",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39",
+      "posted": "2026-05-13",
+      "job_type": "Permanent",
+      "match_score": 16,
+      "match_reasons": [
+        "ai",
+        "api"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "3925ee0fc418",
+      "title": "Director of Engineering, Experience",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/fb7929b7-73b8-43fc-b6a0-888e96722617",
+      "posted": "2026-04-24",
+      "job_type": "Permanent",
+      "match_score": 16,
+      "match_reasons": [
+        "ai",
+        "api"
+      ],
+      "team": "Experience",
+      "is_new": false
+    },
+    {
+      "id": "308372ea63a2",
+      "title": "Engineering Manager - AI Fleet Management & Honk",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/52550fb5-79dc-4bb6-af24-5364a1af2c44",
+      "posted": "2026-04-16",
+      "job_type": "Permanent",
+      "match_score": 16,
+      "match_reasons": [
+        "ai",
+        "api"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "d124672b08dd",
+      "title": "Senior Machine Learning Engineer - Generative UI Platform",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/0efed556-ce1a-455f-8ffc-2e11750ad2c5",
+      "posted": "2026-03-26",
+      "job_type": "Permanent",
+      "match_score": 15,
+      "match_reasons": [
+        "machine learning"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "841347023b5d",
+      "title": "Senior Product Manager – Partner Growth",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/a69512de-6754-411c-a83f-1f944820e559",
+      "posted": "2026-05-08",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Experience",
+      "is_new": false
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "new_count": 0,
+    "by_company": {
+      "Spotify": 8
+    }
+  }
+}
