@@ -1,0 +1,115 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T08:23:23.461485Z",
+  "jobs": [
+    {
+      "id": "c90257889c08",
+      "title": "Engineering Manager - Experimentation",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/64ef2493-3b1e-407a-ac07-9e95a57f6d7c",
+      "posted": "2025-10-24",
+      "job_type": "Permanent",
+      "match_score": 30,
+      "match_reasons": [
+        "rag",
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "be8c817a8281",
+      "title": "Cloud Security Engineer",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/e5ef674b-bc46-4a11-bf34-624b49ec7e67",
+      "posted": "2026-06-26",
+      "job_type": "Permanent",
+      "match_score": 26,
+      "match_reasons": [
+        "ai",
+        "cloud",
+        "api"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "25df260a2b63",
+      "title": "Analytics Engineer II",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39",
+      "posted": "2026-05-13",
+      "job_type": "Permanent",
+      "match_score": 16,
+      "match_reasons": [
+        "ai",
+        "api"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "d852a87e3b95",
+      "title": "Multilingual AI Quality Specialist",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/331d11c6-6056-45b4-8bd6-d289978b1919",
+      "posted": "2026-07-14",
+      "job_type": "Permanent",
+      "match_score": 16,
+      "match_reasons": [
+        "ai",
+        "api"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "78c1c09248e1",
+      "title": "Senior Product Manager - Design Systems",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/07641cac-402a-44fd-ba42-9cb75473fc0a",
+      "posted": "2026-06-30",
+      "job_type": "Full-time",
+      "match_score": 16,
+      "match_reasons": [
+        "ai",
+        "api"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "ca418f327cc1",
+      "title": "Senior Partner Engineer - Hardware Partnerships",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/2b2ae5a0-f040-4e9a-847c-157b9a41ee29",
+      "posted": "2026-07-10",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Experience",
+      "is_new": false
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "new_count": 0,
+    "by_company": {
+      "Spotify": 6
+    }
+  }
+}
