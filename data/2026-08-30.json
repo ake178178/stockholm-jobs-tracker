@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T11:30:11.749114Z",
+  "jobs": [
+    {
+      "id": "c90257889c08",
+      "title": "Engineering Manager - Experimentation",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/64ef2493-3b1e-407a-ac07-9e95a57f6d7c",
+      "posted": "2025-10-24",
+      "job_type": "Permanent",
+      "match_score": 30,
+      "match_reasons": [
+        "rag",
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "d852a87e3b95",
+      "title": "Multilingual AI Quality Specialist",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/331d11c6-6056-45b4-8bd6-d289978b1919",
+      "posted": "2026-07-14",
+      "job_type": "Permanent",
+      "match_score": 16,
+      "match_reasons": [
+        "ai",
+        "api"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "0ff96c49f3ed",
+      "title": "Senior C++/iOS Engineer - User Platform",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/813b4b62-429c-42e9-a8f7-59e9412fb287",
+      "posted": "2026-07-06",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "new_count": 0,
+    "by_company": {
+      "Spotify": 3
+    }
+  }
+}
