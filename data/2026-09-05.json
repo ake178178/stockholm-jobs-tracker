@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T10:10:43.406587Z",
+  "jobs": [
+    {
+      "id": "c6880dcf020f",
+      "title": "C++ Engineer - Experience",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/29b0056f-f163-4728-a32a-214bcb3232e8",
+      "posted": "2026-09-04",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Experience",
+      "is_new": true
+    },
+    {
+      "id": "6a83128256a2",
+      "title": "Staff Data Scientist - Experience",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/bf0984d7-c54f-4a8a-9a15-f870633d62c0",
+      "posted": "2026-09-04",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Experience",
+      "is_new": true
+    },
+    {
+      "id": "c90257889c08",
+      "title": "Engineering Manager - Experimentation",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/64ef2493-3b1e-407a-ac07-9e95a57f6d7c",
+      "posted": "2025-10-24",
+      "job_type": "Permanent",
+      "match_score": 30,
+      "match_reasons": [
+        "rag",
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "fedfb9e1d145",
+      "title": "Data Scientist, Company Planning & Execution",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/8a9cc53c-48c0-4d43-8287-d81ab09e74fa",
+      "posted": "2026-08-19",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Company Planning",
+      "is_new": false
+    },
+    {
+      "id": "0ff96c49f3ed",
+      "title": "Senior C++/iOS Engineer - User Platform",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/813b4b62-429c-42e9-a8f7-59e9412fb287",
+      "posted": "2026-07-06",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "new_count": 2,
+    "by_company": {
+      "Spotify": 5
+    }
+  }
+}
