@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T12:06:17.521647Z",
+  "jobs": [
+    {
+      "id": "d6c7c598223b",
+      "title": "AV Engineer - Platform",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/785989a6-b219-43b1-92d9-750a67054f24",
+      "posted": "2026-10-09",
+      "job_type": "Permanent",
+      "match_score": 24,
+      "match_reasons": [
+        "ai",
+        "network",
+        "api"
+      ],
+      "team": "IT and Network Engineering",
+      "is_new": true
+    },
+    {
+      "id": "07133c6cedfb",
+      "title": "Backend Engineer II - Data Platform",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/186b763a-2a61-4563-8813-ff6b40c9c8a7",
+      "posted": "2026-09-28",
+      "job_type": "Permanent",
+      "match_score": 30,
+      "match_reasons": [
+        "rag",
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "c90257889c08",
+      "title": "Engineering Manager - Experimentation",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/64ef2493-3b1e-407a-ac07-9e95a57f6d7c",
+      "posted": "2025-10-24",
+      "job_type": "Permanent",
+      "match_score": 30,
+      "match_reasons": [
+        "rag",
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "c6880dcf020f",
+      "title": "C++ Engineer - Experience",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/29b0056f-f163-4728-a32a-214bcb3232e8",
+      "posted": "2026-09-04",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Experience",
+      "is_new": false
+    },
+    {
+      "id": "fedfb9e1d145",
+      "title": "Data Scientist, Company Planning & Execution",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/8a9cc53c-48c0-4d43-8287-d81ab09e74fa",
+      "posted": "2026-08-19",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Company Planning",
+      "is_new": false
+    },
+    {
+      "id": "f1aa7745465a",
+      "title": "Senior Backend Data Engineer – Content Intelligence",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
+      "posted": "2026-09-22",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Experience",
+      "is_new": false
+    },
+    {
+      "id": "0ff96c49f3ed",
+      "title": "Senior C++/iOS Engineer - User Platform",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/813b4b62-429c-42e9-a8f7-59e9412fb287",
+      "posted": "2026-07-06",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "b6427d2b4f70",
+      "title": "Backend Engineer - Data Platform",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05",
+      "posted": "2026-10-01",
+      "job_type": "Permanent",
+      "match_score": 10,
+      "match_reasons": [
+        "cloud"
+      ],
+      "team": "Platform",
+      "is_new": false
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "new_count": 1,
+    "by_company": {
+      "Spotify": 8
+    }
+  }
+}
