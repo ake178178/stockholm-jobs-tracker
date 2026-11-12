@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T14:49:48.611574Z",
+  "jobs": [
+    {
+      "id": "a2d849120f35",
+      "title": "Product Designer",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
+      "posted": "2026-11-04",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": true
+    },
+    {
+      "id": "695254000aa8",
+      "title": "Backend Engineer - Data Platform",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/186b763a-2a61-4563-8813-ff6b40c9c8a7",
+      "posted": "2026-09-28",
+      "job_type": "Permanent",
+      "match_score": 30,
+      "match_reasons": [
+        "rag",
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "c90257889c08",
+      "title": "Engineering Manager - Experimentation",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/64ef2493-3b1e-407a-ac07-9e95a57f6d7c",
+      "posted": "2025-10-24",
+      "job_type": "Permanent",
+      "match_score": 30,
+      "match_reasons": [
+        "rag",
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "a2729e267afe",
+      "title": "Analyst, Royalty Operations",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/a4651332-6400-40e8-8c22-5491e7a34161",
+      "posted": "2026-11-09",
+      "job_type": "Full-time",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Accounting",
+      "is_new": false
+    },
+    {
+      "id": "ea5a69be1907",
+      "title": "Senior Accountant, General Ledger Accounting",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/3616d255-dd0f-4771-a0c8-92bdc2abdccd",
+      "posted": "2026-11-09",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Accounting",
+      "is_new": false
+    },
+    {
+      "id": "0ff96c49f3ed",
+      "title": "Senior C++/iOS Engineer - User Platform",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/813b4b62-429c-42e9-a8f7-59e9412fb287",
+      "posted": "2026-07-06",
+      "job_type": "Permanent",
+      "match_score": 12,
+      "match_reasons": [
+        "ai"
+      ],
+      "team": "Platform",
+      "is_new": false
+    },
+    {
+      "id": "b6427d2b4f70",
+      "title": "Backend Engineer - Data Platform",
+      "company": "Spotify",
+      "company_key": "spotify",
+      "location": "Stockholm",
+      "url": "https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05",
+      "posted": "2026-10-01",
+      "job_type": "Permanent",
+      "match_score": 10,
+      "match_reasons": [
+        "cloud"
+      ],
+      "team": "Platform",
+      "is_new": false
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "new_count": 1,
+    "by_company": {
+      "Spotify": 7
+    }
+  }
+}
